@@ -4,6 +4,6 @@ I am also learning some cibersecurity, my goal is to be a cybersecurity expert.
 
 And finally, I am in the process of obtaining the cambridge B2 First degree.
 
-U can find some links
+You can find my social media links on my ig profile.
 
 https://www.instagram.com/julio_rd24/
