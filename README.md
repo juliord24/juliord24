@@ -5,5 +5,4 @@ I am open to job offers or internships that allow me to continue learning and tr
 You can find my social media links
 in the link below 👇.
 
-
-https://www.instagram.com/julio_rd24/
+linktr.ee/julio_rd24
