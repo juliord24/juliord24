@@ -20,5 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliord24&show_icons=true&locale=en&layout=compact" alt="juliord24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliord24&show_icons=true&locale=en" alt="juliord24" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliord24&label=Profile%20views&color=0e93b4&style=flat" alt="juliord24" /> </p>
