@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
-<h3 align="center">A passionate cross-platform app development student.</h3>
+<h3 align="center">A young cross-platform app development student.</h3>
 
 
 - 🌱 I’m currently studying **cross-platform app development**
