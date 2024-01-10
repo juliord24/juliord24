@@ -1,27 +1,22 @@
-<h1 align="center">Hi 👋, I'm Julio</h1>
-<h3 align="center">A young cross-platform app development student.</h3>
+Hola, soy Julio 👋
+👨‍💻 Sobre Mí
+🎓 Actualmente estudio Desarrollo de Aplicaciones Multiplataforma (DAM).
+💻 Me interesa especialmente el desarrollo de aplicaciones, con un enfoque en el backend. Además, tengo planes de explorar el desarrollo de videojuegos en el futuro.
+🌱 Estoy en el proceso de decidir qué nueva tecnología aprender a continuación. ¡Siempre listo para nuevos desafíos!
+🤝 Colaboración y Comunidad
+👯 Estoy abierto a colaborar en proyectos interesantes. Me encanta aprender, y ayudar a otros es una forma fantástica de hacerlo.
+🤔 Si necesitas ayuda o quieres discutir sobre tecnología y programación, ¡no dudes en contactarme!
+🛠 Habilidades y Herramientas
+IDEs Favoritos: IntelliJ, Android Studio, Visual Studio, y Visual Studio Code.
+Gestión de Bases de Datos: Experiencia en el manejo de bases de datos MySQL.
+Lenguajes de Programación: Java (mi fuerte), C# (para aplicaciones WPF y Windows Forms), y conocimientos en Kotlin, Python, HTML, CSS, y XML.
+Otras Herramientas: Manejo y desarrollo en Odoo, uso de VirtualBox para la gestión de entornos virtuales.
+📈 Estadísticas de GitHub
 
-
-- 🌱 I’m currently studying **cross-platform app development**
-
-- 🤝 I’m open to **job offers, internships, new projects... anything I can learn something new from.**
-
-- 💬 Ask me about **Java, Kotlin**
-
-- 📫 How to reach me **juliord6724@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juliord24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliord24" height="30" width="40" /></a>
-<a href="https://instagram.com/julio_rd24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julio_rd24" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliord24&show_icons=true&locale=en&layout=compact" alt="juliord24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliord24&show_icons=true&locale=en" alt="juliord24" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/juliord24"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="juliord24" /></a></p><br><br>
+📫 Cómo contactarme
+📷 Instagram
+💼 LinkedIn
+🌐 Página Web
+💌 Email
+💖 BuyMeACoffee
+💵 PayPal
