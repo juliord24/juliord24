@@ -2,17 +2,15 @@
 
 - 🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM).**
 
-- 💻 Me interesa especialmente el **desarrollo de aplicaciones, con un enfoque en el backend. Además, tengo planes de explorar el desarrollo de videojuegos en el futuro.**
+- 💻 Me interesa especialmente el **desarrollo de aplicaciones móviles. Además, tengo planes de explorar el desarrollo de videojuegos en el futuro.**
 
-- 🌱 Ahora mismo estoy aprendiendo **Flutter**
+- 🌱 Ahora mismo estoy aprendiendo **Flutter**.
 
-- 🤔 Si necesitas ayuda o quieres discutir sobre tecnología y programación, ¡no dudes en contactarme! **.**
+- 🤔 Si necesitas ayuda o quieres discutir sobre tecnología y programación, ¡no dudes en contactarme!
 
-- 👯 Estoy abierto a colaborar en proyectos interesantes. Me encanta aprender, y ayudar a otros es una forma fantástica de hacerlo. **.**
+- 👯 Estoy abierto a colaborar en proyectos interesantes. Me encanta aprender, y ayudar a otros es una forma fantástica de hacerlo.
 
 - 👨‍💻Mi portfolio [link en proceso]()
-
-- 📫 Mi correo **juliord24@gmail.com**
 
 - 🛜 Mis redes [aquí](https://juliord24.carrd.co)
   
