@@ -10,7 +10,7 @@
 
 - 👯 Estoy abierto a colaborar en proyectos interesantes. Me encanta aprender, y ayudar a otros es una forma fantástica de hacerlo.
 
-- 👨‍💻Mi portfolio [link en proceso]()
+- 👨‍💻Mi portfolio [link en proceso]() 
 
 - 🛜 Mis redes [aquí](https://juliord24.carrd.co)
   
