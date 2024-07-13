@@ -1,16 +1,12 @@
-<h1 align="center">Hola, soy Julio 👋</h1>
+<h1 align="center">Hola, soy Julio 👋, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</h1>
 
-- 🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM).**
+- 💻 Me interesa especialmente el **desarrollo de aplicaciones móviles y el desarrollo de videojuegos**
 
-- 💻 Me interesa especialmente el **desarrollo de aplicaciones móviles. Además, tengo planes de explorar el desarrollo de videojuegos en el futuro.**
-
-- 🌱 Ahora mismo estoy aprendiendo **Flutter**.
-
-- 🤔 Si necesitas ayuda o quieres discutir sobre tecnología y programación, ¡no dudes en contactarme!
+- 🌱 Ahora mismo estoy desarrollando un videojuego basado en el anime **Solo Leveling**.
 
 - 👯 Estoy abierto a colaborar en proyectos interesantes. Me encanta aprender, y ayudar a otros es una forma fantástica de hacerlo.
 
-- 👨‍💻Mi portfolio [link en proceso]() 
+- 👨‍💻Mi portfolio [link en proceso]()
 
 - 🛜 Mis redes [aquí](https://juliord24.carrd.co)
   
