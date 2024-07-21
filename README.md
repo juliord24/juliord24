@@ -2,7 +2,7 @@
 
 - 💻 Me interesa especialmente el **desarrollo de aplicaciones móviles y el desarrollo de videojuegos**
 
-- 🌱 Ahora mismo estoy desarrollando un videojuego basado en el anime **Solo Leveling**.
+- 🌱 Ahora mismo estoy formandome y aprendiendo el framwork **Spring**.
 
 - 👯 Estoy abierto a colaborar en proyectos interesantes. Me encanta aprender, y ayudar a otros es una forma fantástica de hacerlo.
 
