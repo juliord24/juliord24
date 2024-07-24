@@ -1,19 +1,15 @@
-<h1 align="center">Hola, soy Julio 👋, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</h1>
 
-- 💻 Me interesa especialmente el **desarrollo de aplicaciones móviles y el desarrollo de videojuegos**
 
-- 🌱 Ahora mismo estoy formandome y aprendiendo el framwork **Spring**.
+- Hi, I’m Julio 👋 
 
-- 👯 Estoy abierto a colaborar en proyectos interesantes. Me encanta aprender, y ayudar a otros es una forma fantástica de hacerlo.
+- 👀 I’m interested in Coding
 
-- 👨‍💻Mi portfolio [link en proceso]()
-
-- 🛜 Mis redes [aquí](https://juliord24.carrd.co)
+- 🌱 I’m currently learning Spring
   
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,firebase,flutter,git,java,md,mysql" />
+    <img src="https://skillicons.dev/icons?i=dart,firebase,flutter,git,java,spring,md,mysql" />
   </a>
 </p>
 
