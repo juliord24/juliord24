@@ -27,7 +27,7 @@ Cuento con una base sólida en desarrollo de software gracias a mi formación en
 ## 📈 Estadísticas de GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=juliord24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.vercel.app/?user=juliord24&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=juliord24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliord24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
