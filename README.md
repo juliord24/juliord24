@@ -36,5 +36,5 @@ Cuento con una base sólida en desarrollo de software gracias a mi formación en
 
 ¿Buscas un perfil técnico con ganas de crecer en el mundo de los datos? ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliord24) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliord24)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliord6724@gmail.com)
