@@ -1,37 +1,34 @@
-# 📊 ¡Hola! Soy Julio Rodríguez Díaz
+# ¡Hola! Soy Julio 👋
+### Data Analyst | De Desarrollador (DAM) a Entusiasta de los Datos
 
-### Analista de Datos | Background en Desarrollo de Aplicaciones (DAM) 
-
----
-
-## 🛠️ Stack Técnico
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+Cuento con una base sólida en desarrollo de software gracias a mi formación en **DAM**, lo que me permite abordar el análisis de datos con una mentalidad lógica y técnica. Actualmente, estoy enfocado en transformar datos brutos en decisiones estratégicas mediante el uso de herramientas de análisis y visualización.
 
 ---
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/julio_rd24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliord24)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=juliord24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.vercel.app/?user=juliord24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliord24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=juliord24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Sobre mí
+- 🎓 **Background:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+- 🎯 **Objetivo:** Mi meta es aportar valor en equipos de datos, aplicando mis conocimientos técnicos para limpiar, analizar y visualizar información compleja.
+- ⚙️ **En constante aprendizaje:** Perfeccionando mis habilidades en Python y SQL.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=juliord24&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ Herramientas y Tecnologías
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Análisis de Datos** | Excel (Avanzado), Python (Pandas) |
+| **Bases de Datos** | MySQL, PostgreSQL |
+| **Visualización** | Tableau, Power BI |
+| **Desarrollo** | Git, GitHub, Conocimientos de lógica de programación (Java/Kotlin) |
+
+---
+
+## 📈 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juliord24&show_icons=true&theme=radical)
+
+---
+
+## 📧 Contacto
+¿Buscas un perfil técnico con ganas de crecer en el mundo de los datos? ¡Hablemos!
+
+- **LinkedIn:** [https://www.linkedin.com/in/juliord24]
+- **Email:** [juliord6724@gmail.com]
