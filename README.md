@@ -1,5 +1,5 @@
 # ¡Hola! Soy Julio 👋
-### Data Analyst | De Desarrollador (DAM) a Entusiasta de los Datos
+### Data Analyst | Desarrollador de aplicaciones multiplataforma
 
 Cuento con una base sólida en desarrollo de software gracias a mi formación en **DAM**, lo que me permite abordar el análisis de datos con una mentalidad lógica y técnica. Actualmente, estoy enfocado en transformar datos brutos en decisiones estratégicas mediante el uso de herramientas de análisis y visualización.
 
